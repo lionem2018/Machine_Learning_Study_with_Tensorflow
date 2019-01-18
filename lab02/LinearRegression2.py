@@ -20,7 +20,7 @@ hypothesis = X * W + b
 cost = tf.reduce_mean(tf.square(hypothesis - Y))
 
 # Minimize
-Optimizer  = tf.train.GradientDescentOptimizer(learning_rate=0.01)
+Optimizer = tf.train.GradientDescentOptimizer(learning_rate=0.01)
 train = Optimizer.minimize(cost)
 
 ########## Run/update graph and get results ##########
