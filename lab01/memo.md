@@ -57,7 +57,7 @@ sess.run(node3): 7.0
     
 ## Use Placeholders
 
-![picture1](./picture1.png)
+![picture_graph](picture_graph.png)
     
     # tf.placeholder(): 실행하기 직전 데이터 전달 가능
     # # placeholder(

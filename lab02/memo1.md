@@ -1,4 +1,4 @@
-# Lab02 Implement Linear Regression with TensorFlow - (1)
+# Lab02. Implement Linear Regression with TensorFlow - (1)
 
     import tensorflow as tf
 
