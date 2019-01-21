@@ -4,7 +4,7 @@
 
     # if your console prints
     # 'Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX',
-    # add this lines
+    # add these lines
     import os
     os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
