@@ -14,12 +14,16 @@
         
     # Create a constant op
     # This op is added as a node to the default graph
+    # tf.constant: 상수 텐서 생성
     hello = tf.constant('Hello, TensorFlow!')
     
-    # seart a TF session
+    # start a TF session
+    # tf.Session(): 그래프 실행
     sess = tf.Session()
     
     # run the op and get result
+    # sess.run(<parameter>: parameter로 전달된 op(s)에 대응하는
+    #                       그래프의 부분집합 실행
     print(sess.run(hello))
     
 [return]
@@ -52,11 +56,20 @@ sess.run(node3): 7.0
 
     
 ## Use Placeholders
+
+![picture1](./picture1.png)
     
+    # tf.placeholder(): 실행하기 직전 데이터 전달 가능
+    # # placeholder(
+    #       dtype,        # 데이터 타입 (반드시 명시)
+    #       shape=None,   # 입력 데이터의 형태(상수 or 다차원 배열)
+    #       name=None     # 해당 placeholder의 이름
+    #   )
     a = tf.placeholder(tf.float32)
     b = tf.placeholder(tf.float32)
     adder_node = a + b  # + provides a shortcut for tf.add(a,b)
     
+    # feed_dict={}: 각 텐서에 값 맵핑
     print(sess.run(adder_node, feed_dict={a: 3, b: 4.5}))
     print(sess.run(adder_node, feed_dict={a: [1, 3], b: [2, 4]}))
    
