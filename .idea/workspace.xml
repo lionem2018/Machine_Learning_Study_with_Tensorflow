@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="644b5a68-1ffb-4159-8236-3d019741196f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lab04-1/MultiVariableLinearRegression.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab04-1/MultiVariableLinearRegression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab04-1/MultiVariablematmulLinearRegression.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab04-1/MultiVariablematmulLinearRegression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab04-2/FileInputLinearRegression.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab01/memo.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab01/HelloTensorflow.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab02/memo1.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab02/LinearRegression.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab02/memo2.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab02/LinearRegression2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab03/memo1.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/MatplotlibTest.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab03/memo2.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/MinimizeCost.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab03/memo3.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/MinimizeCostUsingOptimizer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab03/memo4.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/OptionalOperations.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,11 +16,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab04-1/MultiVariableLinearRegression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="31" lean-forward="true" selection-end-line="44" />
+            <state relative-caret-position="-244">
+              <caret selection-end-line="3" selection-end-column="40" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab04-2/data-01-test-score.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -47,12 +46,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab04-1/MultiVariablematmulLinearRegression.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="38">
-                <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+              <first_editor relative-caret-position="361">
+                <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -60,11 +59,47 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab04-1/MultiVariableLinearRegression.md">
+        <entry file="file://$PROJECT_DIR$/lab04-2/FileInputLinearRegression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="874">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab04-2/TFReaderLinearRegression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="35" column="32" lean-forward="true" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab04-2/LinearRegressionUsingTFData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="554">
+              <caret line="51" column="22" lean-forward="true" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab04-2/TFReaderLinearRegression.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1539">
-                <caret line="81" selection-start-line="81" selection-end-line="81" />
+              <first_editor relative-caret-position="114">
+                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -72,11 +107,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab03/OptionalOperations.md">
+        <entry file="file://$PROJECT_DIR$/lab04-2/FileInputLinearRegression.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="266">
-                <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+              <first_editor relative-caret-position="95">
+                <caret line="59" column="45" lean-forward="true" selection-start-line="59" selection-start-column="3" selection-end-line="59" selection-end-column="45" />
               </first_editor>
               <second_editor />
             </state>
@@ -91,42 +126,6 @@
                 <caret line="3" selection-start-line="3" selection-end-line="3" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab03/MatplotlibTest.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="760">
-                <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab03/MinimizeCostUsingOptimizer.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-column="49" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab03/MatplotlibTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -166,11 +165,18 @@
         <option value="$PROJECT_DIR$/lab03/memo2.md" />
         <option value="$PROJECT_DIR$/lab03/memo3.md" />
         <option value="$PROJECT_DIR$/lab03/memo4.md" />
-        <option value="$PROJECT_DIR$/lab04-1/MultiVariableLinearRegression.py" />
         <option value="$PROJECT_DIR$/lab04-1/memo1.md" />
         <option value="$PROJECT_DIR$/lab04-1/MultiVariablematmulLinearRegression.py" />
         <option value="$PROJECT_DIR$/lab04-1/memo2.md" />
         <option value="$PROJECT_DIR$/lab04-1/MultiVariablematmulLinearRegression.md" />
+        <option value="$PROJECT_DIR$/lab04-1/MultiVariableLinearRegression.py" />
+        <option value="$PROJECT_DIR$/lab04-2/memo.md" />
+        <option value="$PROJECT_DIR$/lab04-2/LoadingDataFromFile.py" />
+        <option value="$PROJECT_DIR$/lab04-2/FileInputLinearRegression.py" />
+        <option value="$PROJECT_DIR$/lab04-2/TFReaderLinearRegression.py" />
+        <option value="$PROJECT_DIR$/lab04-2/FileInputLinearRegression.md" />
+        <option value="$PROJECT_DIR$/lab04-2/TFReaderLinearRegression.md" />
+        <option value="$PROJECT_DIR$/lab04-2/LinearRegressionUsingTFData.py" />
       </list>
     </option>
   </component>
@@ -196,22 +202,12 @@
             <path>
               <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tensorflow_Test" type="462c0819:PsiDirectoryNode" />
-              <item name="lab01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tensorflow_Test" type="462c0819:PsiDirectoryNode" />
-              <item name="lab02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tensorflow_Test" type="462c0819:PsiDirectoryNode" />
-              <item name="lab03" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tensorflow_Test" type="462c0819:PsiDirectoryNode" />
               <item name="lab04-1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensorflow_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="lab04-2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -225,6 +221,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab04-2" />
       <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab04-1" />
       <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab03" />
       <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab02" />
@@ -245,8 +242,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MultiVariablematmulLinearRegression">
-    <configuration name="MinimizeCost" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.TFReaderLinearRegression">
+    <configuration name="FileInputLinearRegression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tensorflow_Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,11 +251,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab04-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab03/MinimizeCost.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab04-2/FileInputLinearRegression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +264,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MinimizeCostUsingOptimizer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LinearRegressionUsingTFData" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tensorflow_Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,11 +272,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab04-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab03/MinimizeCostUsingOptimizer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab04-2/LinearRegressionUsingTFData.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,7 +285,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MultiVariableLinearRegression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LoadingDataFromFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tensorflow_Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,11 +293,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab04-1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab04-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab04-1/MultiVariableLinearRegression.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab04-2\FileInputLinearRegression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,7 +327,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OptionalOperations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TFReaderLinearRegression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tensorflow_Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -338,11 +335,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab04-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab03/OptionalOperations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab04-2/TFReaderLinearRegression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -353,11 +350,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TFReaderLinearRegression" />
+        <item itemvalue="Python.LinearRegressionUsingTFData" />
+        <item itemvalue="Python.FileInputLinearRegression" />
+        <item itemvalue="Python.LoadingDataFromFile" />
         <item itemvalue="Python.MultiVariablematmulLinearRegression" />
-        <item itemvalue="Python.MultiVariableLinearRegression" />
-        <item itemvalue="Python.OptionalOperations" />
-        <item itemvalue="Python.MinimizeCostUsingOptimizer" />
-        <item itemvalue="Python.MinimizeCost" />
       </list>
     </recent_temporary>
   </component>
@@ -384,7 +381,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49573562" visible="true" weight="0.27447218" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4977612" weight="0.3995381" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4977612" weight="0.39923224" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -581,16 +578,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab04-1/MultiVariableLinearRegression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="31" lean-forward="true" selection-end-line="44" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab04-1/MultiVariablematmulLinearRegression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -611,13 +598,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lab04-1/MultiVariableLinearRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-244">
+          <caret selection-end-line="3" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab04-2/FileInputLinearRegression.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="95">
+            <caret line="59" column="45" lean-forward="true" selection-start-line="59" selection-start-column="3" selection-end-line="59" selection-end-column="45" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lab04-1/MultiVariablematmulLinearRegression.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="38">
-            <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <first_editor relative-caret-position="361">
+            <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab04-2/data-01-test-score.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab04-2/TFReaderLinearRegression.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab04-2/TFReaderLinearRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="32" lean-forward="true" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab04-2/FileInputLinearRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab04-2/LinearRegressionUsingTFData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="51" column="22" lean-forward="true" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
