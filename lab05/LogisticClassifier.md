@@ -1,4 +1,4 @@
-# Implement Logistic Classification with TensorFlow - (1)
+#Lab05. Implement Logistic Classification with TensorFlow - (1)
 
 ![picture](picture.PNG)
 

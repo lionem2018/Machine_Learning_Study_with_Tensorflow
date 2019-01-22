@@ -1,4 +1,4 @@
-# Implement Logistic Classification with TensorFlow - (2)
+#Lab05. Implement Logistic Classification with TensorFlow - (2)
 
     import numpy as np
     import tensorflow as tf
