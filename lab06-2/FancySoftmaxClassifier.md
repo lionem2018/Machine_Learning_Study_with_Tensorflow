@@ -1,4 +1,4 @@
-# Implement Fancy Softmax Classification with TensorFlow]
+#Lab06-2. Implement Fancy Softmax Classification with TensorFlow]
 
 
 

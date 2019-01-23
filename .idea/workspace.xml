@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="644b5a68-1ffb-4159-8236-3d019741196f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab06-2/FancySoftmaxClassifier.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab06-2/FancySoftmaxClassifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab06-2/data-04-zoo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab06-2/picture_Animal_Classification.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab06-2/picture_Cross_Entropy_with_Logits.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,8 +70,8 @@
         <entry file="file://$PROJECT_DIR$/Lab06-2/FancySoftmaxClassifier.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="553">
-                <caret line="61" column="29" lean-forward="true" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+              <first_editor>
+                <caret column="9" selection-start-column="9" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -781,8 +786,8 @@
     <entry file="file://$PROJECT_DIR$/Lab06-2/FancySoftmaxClassifier.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="553">
-            <caret line="61" column="29" lean-forward="true" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+          <first_editor>
+            <caret column="9" selection-start-column="9" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
