@@ -4,11 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/lab05/LogisticClassifier.md" line="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="644b5a68-1ffb-4159-8236-3d019741196f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab06-1/SoftmaxClassifier.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab06-1/SoftmaxClassifier.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab06-1/picture_Cross_Entropy.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/lab06-1/picture_Cross_Entropy2.PNG" afterDir="false" />
-    </list>
+    <list default="true" id="644b5a68-1ffb-4159-8236-3d019741196f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,23 +39,6 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab07-2/picture_MNIST.PNG">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab07-1/LearningRateAndEvaluation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="5" selection-end-column="46" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab07-1/picture_Learning_Rate.PNG">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -102,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab07-2/MNISTDataExample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="668">
-              <caret line="99" lean-forward="true" selection-start-line="1" selection-end-line="99" />
+            <state>
+              <caret selection-end-line="7" selection-end-column="46" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -111,12 +90,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab07-2/MNISTDataExample.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1746">
+              <first_editor relative-caret-position="190">
                 <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab08/TensorManipulation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="497">
+              <caret line="183" column="30" lean-forward="true" selection-start-line="183" selection-start-column="30" selection-end-line="183" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab08/TensorManipulation.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="411" column="4" lean-forward="true" selection-start-line="411" selection-start-column="4" selection-end-line="411" selection-end-column="34" />
               </first_editor>
               <second_editor />
             </state>
@@ -138,8 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/lab1_HelloTensorflow.py" />
         <option value="$PROJECT_DIR$/lab01/explaination.markdown" />
         <option value="$PROJECT_DIR$/lab01/HelloTensorflow.py" />
         <option value="$PROJECT_DIR$/lab01/explaination.md" />
@@ -189,6 +190,8 @@
         <option value="$PROJECT_DIR$/lab06-1/SoftmaxClassifier.md" />
         <option value="$PROJECT_DIR$/lab07-2/MNISTDataExample.py" />
         <option value="$PROJECT_DIR$/lab07-2/MNISTDataExample.md" />
+        <option value="$PROJECT_DIR$/lab08/TensorManipulation.md" />
+        <option value="$PROJECT_DIR$/lab08/TensorManipulation.py" />
       </list>
     </option>
   </component>
@@ -214,22 +217,12 @@
             <path>
               <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tensorflow_Test" type="462c0819:PsiDirectoryNode" />
-              <item name="lab06-1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tensorflow_Test" type="462c0819:PsiDirectoryNode" />
-              <item name="lab06-2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tensorflow_Test" type="462c0819:PsiDirectoryNode" />
-              <item name="lab07-1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tensorflow_Test" type="462c0819:PsiDirectoryNode" />
               <item name="lab07-2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensorflow_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="lab08" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
@@ -272,28 +265,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MNISTDataExample">
-    <configuration name="LearningRateAndEvaluation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Tensorflow_Test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab07-1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab07-1/LearningRateAndEvaluation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.TensorManipulation">
     <configuration name="LinearRegressionWithMinMax" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tensorflow_Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -378,13 +350,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="TensorManipulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tensorflow_Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab08/TensorManipulation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TensorManipulation" />
         <item itemvalue="Python.MNISTDataExample" />
         <item itemvalue="Python.MNISTDataExample2" />
         <item itemvalue="Python.LinearRegressionWithMinMax" />
         <item itemvalue="Python.LinearRegressionWithoutMinMax" />
-        <item itemvalue="Python.LearningRateAndEvaluation" />
       </list>
     </recent_temporary>
   </component>
@@ -457,13 +450,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/tensorflow/python/client/session.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="1333" selection-start-line="1333" selection-end-line="1333" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -848,23 +834,43 @@
     <entry file="file://$PROJECT_DIR$/lab07-2/picture_MNIST.PNG">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/lab07-2/MNISTDataExample.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="190">
+            <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lab07-2/MNISTDataExample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="99" lean-forward="true" selection-start-line="1" selection-end-line="99" />
+        <state>
+          <caret selection-end-line="7" selection-end-column="46" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab07-2/MNISTDataExample.md">
+    <entry file="file://$PROJECT_DIR$/lab08/TensorManipulation.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1746">
-            <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <first_editor relative-caret-position="135">
+            <caret line="411" column="4" lean-forward="true" selection-start-line="411" selection-start-column="4" selection-end-line="411" selection-end-column="34" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab08/TensorManipulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="183" column="30" lean-forward="true" selection-start-line="183" selection-start-column="30" selection-end-line="183" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
