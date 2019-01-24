@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/lab05/LogisticClassifier.md" line="3" />
+    <bookmark url="file://$PROJECT_DIR$/lab05/1_LogisticClassifier.md" line="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="644b5a68-1ffb-4159-8236-3d019741196f" name="Default Changelist" comment="" />
+    <list default="true" id="644b5a68-1ffb-4159-8236-3d019741196f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/t10k-images-idx3-ubyte.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/t10k-labels-idx1-ubyte.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train-images-idx3-ubyte.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train-labels-idx1-ubyte.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab01/HelloTensorflow.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab01/1_HelloTensorflow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab01/HelloTensorflow.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab01/1_HelloTensorflow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab02/LinearRegression.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab02/1_LinearRegression.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab02/LinearRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab02/1_LinearRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab02/LinearRegression2.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab02/2_LinearRegressionUsingPlaceHolder.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab02/LinearRegression2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab02/2_LinearRegressionUsingPlaceHolder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/MatplotlibTest.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/1_MatplotlibTest.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/MatplotlibTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/1_MatplotlibTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/MinimizeCost.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/2_MinimizeCost.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/MinimizeCost.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/2_MinimizeCost.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/MinimizeCostUsingOptimizer.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/3_MinimizeCostUsingOptimizer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/MinimizeCostUsingOptimizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/3_MinimizeCostUsingOptimizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/OptionalOperations.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/4_OptionalOperations.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/OptionalOperations.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/4_OptionalOperations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab04-1/MultiVariableLinearRegression.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab04-1/1_MultiVariableLinearRegression.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab04-1/MultiVariableLinearRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab04-1/1_MultiVariableLinearRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab04-1/MultiVariablematmulLinearRegression.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab04-1/2_MultiVariablematmulLinearRegression.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab04-1/MultiVariablematmulLinearRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab04-1/2_MultiVariablematmulLinearRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab04-2/FileInputLinearRegression.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab04-2/1_FileInputLinearRegression.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab04-2/FileInputLinearRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab04-2/1_FileInputLinearRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab04-2/TFReaderLinearRegression.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab04-2/2_TFReaderLinearRegression.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab04-2/TFReaderLinearRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab04-2/2_TFReaderLinearRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab05/ClassifingBiabetes.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab05/2_ClassifingBiabetes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab05/ClassifingBiabetes.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab05/2_ClassifingBiabetes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab05/LogisticClassifier.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab05/1_LogisticClassifier.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab05/LogisticClassifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab05/1_LogisticClassifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab06-1/SoftmaxClassifier.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab06-1/1_SoftmaxClassifier.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab06-1/SoftmaxClassifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab06-1/1_SoftmaxClassifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab06-2/FancySoftmaxClassifier.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab06-2/1_FancySoftmaxClassifier.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab06-2/FancySoftmaxClassifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab06-2/1_FancySoftmaxClassifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab07-1/LearningRateAndEvaluation.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab07-1/1_LearningRateAndEvaluation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab07-1/LearningRateAndEvaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab07-1/1_LearningRateAndEvaluation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab07-1/LinearRegressionWithMinMax.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab07-1/2_LinearRegressionWithMinMax.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab07-1/LinearRegressionWithMinMax.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab07-1/2_LinearRegressionWithMinMax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab07-2/MNISTDataExample.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab07-2/1_MNISTDataExample.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab07-2/MNISTDataExample.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab07-2/1_MNISTDataExample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab08/TensorManipulation.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab08/1_TensorManipulation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab08/TensorManipulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab08/1_TensorManipulation.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,51 +58,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab06-2/FancySoftmaxClassifier.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-285">
-                <caret line="18" selection-start-line="18" selection-end-line="18" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab06-1/SoftmaxClassifier.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="114">
-                <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab07-2/picture_MNIST.PNG">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab07-1/LearningRateAndEvaluation.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1273">
-                <caret line="130" column="1" selection-start-line="130" selection-start-column="1" selection-end-line="130" selection-end-column="1" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab07-1/LinearRegressionWithMinMax.py">
+        <entry file="file://$PROJECT_DIR$/lab06-2/1_FancySoftmaxClassifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+            <state>
+              <caret selection-end-line="6" selection-end-column="46" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -67,7 +70,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab07-1/LinearRegressionWithMinMax.md">
+        <entry file="file://$PROJECT_DIR$/lab06-2/1_FancySoftmaxClassifier.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="342">
+                <caret line="18" selection-start-line="18" selection-end-line="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab07-1/1_LearningRateAndEvaluation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="5" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab07-1/1_LearningRateAndEvaluation.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="2470">
+                <caret line="130" column="1" selection-start-line="130" selection-start-column="1" selection-end-line="130" selection-end-column="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab07-1/2_LinearRegressionWithMinMax.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="304">
@@ -79,19 +118,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab07-2/MNISTDataExample.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="7" selection-end-column="46" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab07-2/MNISTDataExample.md">
+        <entry file="file://$PROJECT_DIR$/lab07-2/1_MNISTDataExample.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="190">
@@ -102,11 +129,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lab08/TensorManipulation.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab08/1_TensorManipulation.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="7486">
+                <caret line="394" column="4" selection-start-line="394" selection-start-column="4" selection-end-line="394" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab08/1_TensorManipulation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="183" column="30" lean-forward="true" selection-start-line="183" selection-start-column="30" selection-end-line="183" selection-end-column="30" />
+            <state relative-caret-position="502">
+              <caret line="183" column="30" selection-start-line="183" selection-start-column="30" selection-end-line="183" selection-end-column="30" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -115,11 +154,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab08/TensorManipulation.md">
+        <entry file="file://$PROJECT_DIR$/lab09-1/1_LinearRegressionForXOR.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="47" selection-end-column="67" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab09-1/1_LinearRegressionForXOR.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="411" column="4" lean-forward="true" selection-start-line="411" selection-start-column="4" selection-end-line="411" selection-end-column="34" />
+              <first_editor relative-caret-position="304">
+                <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -141,9 +192,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lab01/explaination.markdown" />
-        <option value="$PROJECT_DIR$/lab01/HelloTensorflow.py" />
-        <option value="$PROJECT_DIR$/lab01/explaination.md" />
         <option value="$PROJECT_DIR$/lab03/matplotlib.py" />
         <option value="$PROJECT_DIR$/lab03/MatplotlibTest.py" />
         <option value="$PROJECT_DIR$/lab02/LinearRegression2.py" />
@@ -192,6 +240,9 @@
         <option value="$PROJECT_DIR$/lab07-2/MNISTDataExample.md" />
         <option value="$PROJECT_DIR$/lab08/TensorManipulation.md" />
         <option value="$PROJECT_DIR$/lab08/TensorManipulation.py" />
+        <option value="$PROJECT_DIR$/lab09-1/NeuralNetworkForXOR.py" />
+        <option value="$PROJECT_DIR$/lab09-1/1_NeuralNetworkForXOR.py" />
+        <option value="$PROJECT_DIR$/lab09-1/1_LinearRegressionForXOR.md" />
       </list>
     </option>
   </component>
@@ -217,12 +268,7 @@
             <path>
               <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tensorflow_Test" type="462c0819:PsiDirectoryNode" />
-              <item name="lab07-2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tensorflow_Test" type="462c0819:PsiDirectoryNode" />
-              <item name="lab08" type="462c0819:PsiDirectoryNode" />
+              <item name="lab09-1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
@@ -265,8 +311,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TensorManipulation">
-    <configuration name="LinearRegressionWithMinMax" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1_NeuralNetworkForXOR">
+    <configuration name="1_HelloTensorflow" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tensorflow_Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,11 +320,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab07-1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab07-1/LinearRegressionWithMinMax.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab01/1_HelloTensorflow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,7 +333,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LinearRegressionWithoutMinMax" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1_NeuralNetworkForXOR" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tensorflow_Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,11 +341,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab07-1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab09-1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab07-1\LinearRegressionWithMinMax.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab09-1\1_LinearRegressionForXOR.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,7 +366,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab07-2/MNISTDataExample.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab07-2\1_MNISTDataExample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -362,7 +408,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab08/TensorManipulation.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab08\1_TensorManipulation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -373,11 +419,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1_NeuralNetworkForXOR" />
+        <item itemvalue="Python.1_HelloTensorflow" />
         <item itemvalue="Python.TensorManipulation" />
         <item itemvalue="Python.MNISTDataExample" />
         <item itemvalue="Python.MNISTDataExample2" />
-        <item itemvalue="Python.LinearRegressionWithMinMax" />
-        <item itemvalue="Python.LinearRegressionWithoutMinMax" />
       </list>
     </recent_temporary>
   </component>
@@ -407,12 +453,12 @@
     <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.195629" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.195629" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49573562" visible="true" weight="0.27447218" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49573562" visible="true" weight="0.27447218" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4977612" weight="0.39923224" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -450,34 +496,7 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab01/picture_graph.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab02/LinearRegression2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8">
-          <caret line="6" selection-start-line="6" selection-end-line="44" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab01/HelloTensorflow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab02/LinearRegression.py">
+    <entry file="file://$PROJECT_DIR$/lab02/1_LinearRegression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="35" column="58" lean-forward="true" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
@@ -490,7 +509,7 @@
     <entry file="file://$PROJECT_DIR$/lab03/picture_return.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab03/MinimizeCost.py">
+    <entry file="file://$PROJECT_DIR$/lab03/2_MinimizeCost.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="33" />
@@ -500,17 +519,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab03/MinimizeCostUsingOptimizer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="34" lean-forward="true" selection-end-line="29" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab03/OptionalOperations.py">
+    <entry file="file://$PROJECT_DIR$/lab03/4_OptionalOperations.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="29" column="45" lean-forward="true" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
@@ -520,20 +529,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab03/MinimizeCost.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab03/picture_graph.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab03/MatplotlibTest.py">
+    <entry file="file://$PROJECT_DIR$/lab03/1_MatplotlibTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="4" selection-end-column="40" />
@@ -543,27 +542,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab03/OptionalOperations.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="266">
-            <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab03/MatplotlibTest.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="760">
-            <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab03/MinimizeCostUsingOptimizer.md">
+    <entry file="file://$PROJECT_DIR$/lab03/3_MinimizeCostUsingOptimizer.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
@@ -573,17 +552,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab04-1/MultiVariableLinearRegression.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1539">
-            <caret line="81" selection-start-line="81" selection-end-line="81" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab04-1/MultiVariableLinearRegression.py">
+    <entry file="file://$PROJECT_DIR$/lab04-1/1_MultiVariableLinearRegression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="3" selection-end-column="40" />
@@ -593,7 +562,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab04-1/MultiVariablematmulLinearRegression.py">
+    <entry file="file://$PROJECT_DIR$/lab04-1/2_MultiVariablematmulLinearRegression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="44" />
@@ -603,7 +572,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab04-1/MultiVariablematmulLinearRegression.md">
+    <entry file="file://$PROJECT_DIR$/lab04-1/2_MultiVariablematmulLinearRegression.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="361">
@@ -621,7 +590,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab04-2/LinearRegressionUsingTFData.py" />
-    <entry file="file://$PROJECT_DIR$/lab04-2/TFReaderLinearRegression.py">
+    <entry file="file://$PROJECT_DIR$/lab04-2/2_TFReaderLinearRegression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="573">
           <caret line="54" column="19" lean-forward="true" selection-start-line="20" selection-end-line="54" selection-end-column="19" />
@@ -634,7 +603,7 @@
     <entry file="file://$PROJECT_DIR$/lab05/picture.PNG">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab04-2/FileInputLinearRegression.py">
+    <entry file="file://$PROJECT_DIR$/lab04-2/1_FileInputLinearRegression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="4" selection-end-column="40" />
@@ -644,17 +613,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab04-2/TFReaderLinearRegression.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3382">
-            <caret line="178" column="1" selection-start-line="178" selection-start-column="1" selection-end-line="178" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab05/LogisticClassifier.py">
+    <entry file="file://$PROJECT_DIR$/lab05/1_LogisticClassifier.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
@@ -671,17 +630,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab05/LogisticClassifier.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="6" selection-start-column="6" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab05/ClassifingBiabetes.py">
+    <entry file="file://$PROJECT_DIR$/lab05/2_ClassifingBiabetes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="6" selection-end-column="46" />
@@ -691,57 +640,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab04-2/FileInputLinearRegression.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="10" selection-start-column="2" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab06-1/SoftmaxClassifier.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab05/ClassifingBiabetes.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="323">
-            <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab02/LinearRegression.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-454">
-            <caret line="3" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab02/LinearRegression2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-701">
-            <caret column="8" selection-start-column="8" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab01/HelloTensorflow.md">
+    <entry file="file://$PROJECT_DIR$/lab01/1_HelloTensorflow.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="59">
@@ -758,30 +657,10 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/lab07-2/MNISTDataExample2.py" />
-    <entry file="file://$PROJECT_DIR$/lab06-2/FancySoftmaxClassifier.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab07-1/LearningRateAndEvaluation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab07-1/picture_Learning_Rate.PNG">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab07-1/LinearRegressionWithMinMax.py">
+    <entry file="file://$PROJECT_DIR$/lab07-1/2_LinearRegressionWithMinMax.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
@@ -791,60 +670,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab07-1/LinearRegressionWithMinMax.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="304">
-            <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab07-1/LearningRateAndEvaluation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1273">
-            <caret line="130" column="1" selection-start-line="130" selection-start-column="1" selection-end-line="130" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab06-2/FancySoftmaxClassifier.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-285">
-            <caret line="18" selection-start-line="18" selection-end-line="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab06-1/SoftmaxClassifier.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="114">
-            <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab07-2/picture_MNIST.PNG">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab07-2/MNISTDataExample.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="190">
-            <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab07-2/MNISTDataExample.py">
+    <entry file="file://$PROJECT_DIR$/lab07-2/1_MNISTDataExample.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="7" selection-end-column="46" />
@@ -854,23 +683,250 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab08/TensorManipulation.md">
+    <entry file="file://$PROJECT_DIR$/lab01/1_HelloTensorflow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab02/1_LinearRegression.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="411" column="4" lean-forward="true" selection-start-line="411" selection-start-column="4" selection-end-line="411" selection-end-column="34" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="57">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab08/TensorManipulation.py">
+    <entry file="file://$PROJECT_DIR$/lab02/2_LinearRegressionUsingPlaceHolder.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="8" selection-start-column="8" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab03/1_MatplotlibTest.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="760">
+            <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab03/2_MinimizeCost.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab03/3_MinimizeCostUsingOptimizer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="183" column="30" lean-forward="true" selection-start-line="183" selection-start-column="30" selection-end-line="183" selection-end-column="30" />
+        <state relative-caret-position="323">
+          <caret line="17" column="34" selection-end-line="29" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab03/4_OptionalOperations.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="209">
+            <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab04-1/1_MultiVariableLinearRegression.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1539">
+            <caret line="81" selection-start-line="81" selection-end-line="81" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab04-2/1_FileInputLinearRegression.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="10" selection-start-column="2" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab04-2/2_TFReaderLinearRegression.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="667">
+            <caret line="178" column="1" selection-start-line="178" selection-start-column="1" selection-end-line="178" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab05/2_ClassifingBiabetes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab05/1_LogisticClassifier.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="6" selection-start-column="6" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab06-1/1_SoftmaxClassifier.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab06-1/1_SoftmaxClassifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab06-2/1_FancySoftmaxClassifier.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="342">
+            <caret line="18" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab06-2/1_FancySoftmaxClassifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab07-1/1_LearningRateAndEvaluation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2470">
+            <caret line="130" column="1" selection-start-line="130" selection-start-column="1" selection-end-line="130" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab07-1/1_LearningRateAndEvaluation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab07-1/2_LinearRegressionWithMinMax.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="304">
+            <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab07-2/1_MNISTDataExample.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="190">
+            <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab08/1_TensorManipulation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="7486">
+            <caret line="394" column="4" selection-start-line="394" selection-start-column="4" selection-end-line="394" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab08/1_TensorManipulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="183" column="30" selection-start-line="183" selection-start-column="30" selection-end-line="183" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/tensorflow/python/framework/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="1627" selection-start-line="1627" selection-end-line="1627" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab09-1/1_LinearRegressionForXOR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="47" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab09-1/1_LinearRegressionForXOR.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="304">
+            <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
