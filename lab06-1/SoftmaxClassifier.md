@@ -2,7 +2,9 @@
 
 ![picture_graph](./picture_graph.PNG)
 
-![picture_Cross_Entropy](./picture_Cross_Entropy.PNG)
+![picture_Cross_Entropy1](picture_Cross_Entropy1.PNG)
+
+![picture_Cross_Entropy2](picture_Cross_Entropy2.PNG)
 
     import tensorflow as tf
     
