@@ -369,11 +369,10 @@ array([1, 0, 1, 0])
     z = [3, 6]
     
     # Pack along first dim.
-    # 각각의 matrix를 하나의 행처럼 한 번에 저장
+    # 각각의 matrix를 행을 중심으로 나누어 한 matrix에 저장
     pp.pprint(tf.stack([x, y, z]).eval())
-    # 각각의 matrix를 하나의 열처럼 한 번에 저장
-    # x = [1, 4]  =>  [1]
-    #                 [4]
+    # 각각의 matrix를 열을 중심으로 나누어 한 matrix에 저장
+    # x = [1, 4]  =>  [1] [4]
     pp.pprint(tf.stack([x, y, z], axis=1).eval())
     
 [return]
