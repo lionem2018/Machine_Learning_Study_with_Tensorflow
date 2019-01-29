@@ -32,7 +32,10 @@ b2 = tf.Variable(tf.random_normal([nb_classes]), name='bias2')
 hypothesis = tf.nn.softmax(tf.matmul(layer1, W2) + b2)
 
 cost = tf.reduce_mean(-tf.reduce_sum(Y * tf.log(hypothesis), axis=1))
+# change optimize algorithm or learning_rate
 train = tf.train.GradientDescentOptimizer(learning_rate=1).minimize(cost)
+# train = tf.train.GradientDescentOptimizer(learning_rate=0.01).minimize(cost)
+# train = tf.train.AdamOptimizer(learning_rate=0.01).minimize(cost)
 
 # Test model
 is_correct = tf.equal(tf.argmax(hypothesis, 1), tf.argmax(Y, 1))
