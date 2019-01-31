@@ -48,6 +48,6 @@ with tf.Session() as sess:
         if step % 200 == 0:
             print(step, cost_val)
 
-        # Accuracy report
+    # Accuracy report
     h, c, a = sess.run([hypothesis, prediction, accuracy], feed_dict={X: x_test, Y: y_test})
     print("\nHypothesis: ", h, "\nCorrect (Y): ", c, "\nAccuracy: ", a)
