@@ -26,23 +26,23 @@ X = tf.placeholder(tf.float32, [None, 784])
 Y = tf.placeholder(tf.float32, [None, nb_classes])
 
 # weights & bias for nn layers
-W1 = tf.get_variable("W1", shape=[784, 512], initializer=tf.contrib.layers.xavier_initializer())
-b1 = tf.Variable(tf.random_normal([512]))
+W1 = tf.get_variable("W1", shape=[784, 256], initializer=tf.contrib.layers.xavier_initializer())
+b1 = tf.Variable(tf.random_normal([256]))
 L1 = tf.nn.relu(tf.matmul(X, W1) + b1)
 
-W2 = tf.get_variable("W2", shape=[512, 512], initializer=tf.contrib.layers.xavier_initializer())
-b2 = tf.Variable(tf.random_normal([512]))
+W2 = tf.get_variable("W2", shape=[256, 256], initializer=tf.contrib.layers.xavier_initializer())
+b2 = tf.Variable(tf.random_normal([256]))
 L2 = tf.nn.relu(tf.matmul(L1, W2) + b2)
 
-W3 = tf.get_variable("W3", shape=[512, 512], initializer=tf.contrib.layers.xavier_initializer())
-b3 = tf.Variable(tf.random_normal([512]))
+W3 = tf.get_variable("W3", shape=[256, 256], initializer=tf.contrib.layers.xavier_initializer())
+b3 = tf.Variable(tf.random_normal([256]))
 L3 = tf.nn.relu(tf.matmul(L2, W3) + b3)
 
-W4 = tf.get_variable("W4", shape=[512, 512], initializer=tf.contrib.layers.xavier_initializer())
-b4 = tf.Variable(tf.random_normal([512]))
+W4 = tf.get_variable("W4", shape=[256, 256], initializer=tf.contrib.layers.xavier_initializer())
+b4 = tf.Variable(tf.random_normal([256]))
 L4 = tf.nn.relu(tf.matmul(L3, W4) + b4)
 
-W5 = tf.get_variable("W5", shape=[512, 10], initializer=tf.contrib.layers.xavier_initializer())
+W5 = tf.get_variable("W5", shape=[256, 10], initializer=tf.contrib.layers.xavier_initializer())
 b5 = tf.Variable(tf.random_normal([nb_classes]))
 hypothesis = tf.matmul(L4, W5) + b5
 

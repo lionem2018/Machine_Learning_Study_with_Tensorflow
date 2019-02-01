@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="644b5a68-1ffb-4159-8236-3d019741196f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lab10-plus/1_Titanic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab09-plus/3_DeepNNForClassificationDiabetes.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab09-plus/3_DeepNNForClassificationDiabetes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab09-plus/data/t10k-images-idx3-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab09-plus/data/t10k-labels-idx1-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab09-plus/data/train-images-idx3-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab09-plus/data/train-labels-idx1-ubyte.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/3_DeepNNForMNIST.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/3_DeepNNForMNIST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab10/4_DeepNNForMNIST_Dropout.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab10/4_DeepNNForMNIST_Dropout.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,128 +17,88 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab10/4_DeepNNForMNIST_Dropout.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lab09-plus/3_DeepNNForClassificationDiabetes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab09-plus/2_DeepNNForMNISTData.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
-              <folding>
-                <element signature="e#100#109#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab10/3_DeepNNForMNIST.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="304">
-                <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab10/4_DeepNNForMNIST_Dropout.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="513">
-                <caret line="45" column="47" lean-forward="true" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab10/2_NNForMNIST_Xavier.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="582">
-              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab10/3_DeepNNForMNIST.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab09-plus/1_NNForMNISTData.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab10/2_NNForMNIST_Xavier.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-column="34" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab10/1_NNForMNIST_ReLU.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-column="34" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lab10-plus/1_Titanic.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="563">
+                  <caret line="185" column="37" selection-start-line="185" selection-start-column="30" selection-end-line="185" selection-end-column="37" />
+                  <folding>
+                    <element signature="e#276#312#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lab10-plus/test.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="392">
+                  <caret line="139" column="29" selection-start-line="139" selection-start-column="29" selection-end-line="139" selection-end-column="29" />
+                  <folding>
+                    <element signature="e#29#64#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lab10-plus/submission.csv">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="5643">
+                  <caret line="297" column="6" lean-forward="true" selection-start-line="297" selection-start-column="6" selection-end-line="297" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/lab10-plus/input/gender_submission.csv">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="57">
+                  <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lab10-plus/input/test.csv">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="418">
+                  <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lab10-plus/input/train.csv">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/lab10/2_NNForMNIST_Xavier.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="878">
+                  <caret line="80" selection-start-line="80" selection-end-line="80" />
+                  <folding>
+                    <element signature="e#0#9#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -155,11 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lab09-1/1_NeuralNetworkForXOR.py" />
-        <option value="$PROJECT_DIR$/lab08/1_TensorManipulation.md" />
-        <option value="$PROJECT_DIR$/lab09-1/1_LinearRegressionForXOR.md" />
-        <option value="$PROJECT_DIR$/lab09-1/NueralNetworkForXOR.py" />
-        <option value="$PROJECT_DIR$/lab09-1/1_LinearRegressionForXOR.py" />
         <option value="$PROJECT_DIR$/lab09-1/1_LogisticRegressionForXOR.py" />
         <option value="$PROJECT_DIR$/lab09-1/1_LogisticRegressionForXOR.md" />
         <option value="$PROJECT_DIR$/lab09-1/3_WideNeuralNetworkForXOR.py" />
@@ -201,11 +154,16 @@
         <option value="$PROJECT_DIR$/lab10/3_MoreDeepNNForMNIST.md" />
         <option value="$PROJECT_DIR$/lab10/3_DeepNNForMNIST_Dropout.md" />
         <option value="$PROJECT_DIR$/lab10/3_DeepNNForMNIST_Dropout.py" />
-        <option value="$PROJECT_DIR$/lab10/3_DeepNNForMNIST.py" />
         <option value="$PROJECT_DIR$/lab10/3_DeepNNForMNIST.md" />
         <option value="$PROJECT_DIR$/lab10/4_DeepNNForMNIST_Dropout.md" />
         <option value="$PROJECT_DIR$/lab09-plus/2_DeepNNForMNISTData.py" />
         <option value="$PROJECT_DIR$/lab09-plus/3_DeepNNForClassificationDiabetes.py" />
+        <option value="$PROJECT_DIR$/lab10/3_DeepNNForMNIST.py" />
+        <option value="$PROJECT_DIR$/lab10/4_DeepNNForMNIST_Dropout.py" />
+        <option value="$PROJECT_DIR$/lab10/Plus_Titanic.py" />
+        <option value="$PROJECT_DIR$/lab10-plus/Plus_Titanic.py" />
+        <option value="$PROJECT_DIR$/lab10-plus/1_Titanic.py" />
+        <option value="$PROJECT_DIR$/lab10-plus/test.py" />
       </list>
     </option>
   </component>
@@ -220,6 +178,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,12 +189,23 @@
             <path>
               <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tensorflow_Test" type="462c0819:PsiDirectoryNode" />
-              <item name="lab09-plus" type="462c0819:PsiDirectoryNode" />
+              <item name="lab07-2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tensorflow_Test" type="462c0819:PsiDirectoryNode" />
               <item name="lab10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensorflow_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="lab10-plus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensorflow_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="lab10-plus" type="462c0819:PsiDirectoryNode" />
+              <item name="input" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
@@ -245,26 +215,25 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab10-plus" />
+      <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab10" />
+      <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab09-plus" />
+      <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\Lab09-plus" />
+      <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab09-1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab10" />
       <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\Lab09-plus\MNIST_data" />
       <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\Lab09-plus" />
       <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab09-1" />
       <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab07-2" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab10" />
-      <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab09-plus" />
-      <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\Lab09-plus" />
-      <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab09-1" />
-      <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\Lab06-2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -279,8 +248,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1_NNForMNISTData">
-    <configuration name="1_NNForMNISTData" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="1_Titanic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tensorflow_Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,74 +257,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab09-plus" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab10-plus" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab09-plus/1_NNForMNISTData.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2_DeepNNForMNISTData" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Tensorflow_Test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab09-plus" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab09-plus/2_DeepNNForMNISTData.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2_NNForMNIST_Xavier" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Tensorflow_Test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab10" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab10/2_NNForMNIST_Xavier.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3_DeepNNForClassificationDiabetes" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Tensorflow_Test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab09-plus" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab09-plus/3_DeepNNForClassificationDiabetes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab10-plus/1_Titanic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -385,12 +291,75 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Plus_Titanic (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tensorflow_Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab10-plus" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab10-plus\1_Titanic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Plus_Titanic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tensorflow_Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab10-plus\1_Titanic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tensorflow_Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab10-plus" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab10-plus/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1_NNForMNISTData" />
-        <item itemvalue="Python.2_DeepNNForMNISTData" />
-        <item itemvalue="Python.3_DeepNNForClassificationDiabetes" />
-        <item itemvalue="Python.2_NNForMNIST_Xavier" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.1_Titanic" />
+        <item itemvalue="Python.Plus_Titanic (1)" />
+        <item itemvalue="Python.Plus_Titanic" />
         <item itemvalue="Python.4_DeepNNForMNIST_Dropout" />
       </list>
     </recent_temporary>
@@ -419,14 +388,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16471216" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1663113" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49520257" visible="true" weight="0.2840691" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917467" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49520257" weight="0.2840691" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4977612" weight="0.39923224" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -434,7 +402,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946696" weight="0.21785028" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.21785028" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49925372" weight="0.3298731" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49925372" weight="0.32917467" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -446,56 +414,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lab04-1/1_MultiVariableLinearRegression.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1539">
-            <caret line="81" selection-start-line="81" selection-end-line="81" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab04-2/1_FileInputLinearRegression.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="10" selection-start-column="2" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab06-1/1_SoftmaxClassifier.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="114">
-            <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab06-1/1_SoftmaxClassifier.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab07-1/1_LearningRateAndEvaluation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab07-1/1_LearningRateAndEvaluation.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -607,16 +525,6 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/lab09-1/5_DeepNNForMNISTData.py" />
-    <entry file="file://$PROJECT_DIR$/lab07-2/1_MNISTDataExample.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="323">
-            <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/tensorflow/python/ops/nn_ops.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -712,7 +620,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab09-1/3_WideNNForXOR.md">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="534">
@@ -721,6 +628,7 @@
           <second_editor />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/lab06-2/1_FancySoftmaxClassifier.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -743,16 +651,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab09-plus/test.py" />
-    <entry file="file://$PROJECT_DIR$/lab07-2/1_MNISTDataExample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="31" column="69" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="69" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab09-plus/__init__.py" />
     <entry file="file://$PROJECT_DIR$/lab09-2/1_TensorBoardForXOR.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -772,14 +670,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab10/1_NNForMNIST_ReLU.py">
+    <entry file="file://$PROJECT_DIR$/lab10/3_MoreDeepNNForMNIST.md" />
+    <entry file="file://$PROJECT_DIR$/lab09-plus/2_DeepNNForMNISTData.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        <state relative-caret-position="570">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+          <folding>
+            <element signature="e#100#109#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab10/3_MoreDeepNNForMNIST.md" />
+    <entry file="file://$PROJECT_DIR$/lab09-plus/1_NNForMNISTData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lab10/2_NNForMNIST_Xavier.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -800,6 +711,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lab09-plus/3_DeepNNForClassificationDiabetes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lab10/3_DeepNNForMNIST.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -810,11 +731,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lab10/2_NNForMNIST_Xavier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="878">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lab10/4_DeepNNForMNIST_Dropout.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="513">
-            <caret line="45" column="47" lean-forward="true" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
+          <first_editor relative-caret-position="966">
+            <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab07-2/1_MNISTDataExample.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-1618">
+            <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
           </first_editor>
           <second_editor />
         </state>
@@ -822,61 +763,86 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lab10/3_DeepNNForMNIST.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="530">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab10/2_NNForMNIST_Xavier.py">
+    <entry file="file://$PROJECT_DIR$/lab07-2/1_MNISTDataExample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="582">
-          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+        <state relative-caret-position="1510">
+          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab10/1_NNForMNIST_ReLU.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab10/4_DeepNNForMNIST_Dropout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="278">
+          <caret line="70" column="61" selection-start-line="70" selection-start-column="61" selection-end-line="70" selection-end-column="61" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab09-plus/1_NNForMNISTData.py">
+    <entry file="file://$PROJECT_DIR$/lab10-plus/input/train.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab10-plus/input/test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab10-plus/1_Titanic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="185" column="37" selection-start-line="185" selection-start-column="30" selection-end-line="185" selection-end-column="37" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#276#312#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab09-plus/2_DeepNNForMNISTData.py">
+    <entry file="file://$PROJECT_DIR$/lab10-plus/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        <state relative-caret-position="392">
+          <caret line="139" column="29" selection-start-line="139" selection-start-column="29" selection-end-line="139" selection-end-column="29" />
           <folding>
-            <element signature="e#100#109#0" expanded="true" />
+            <element signature="e#29#64#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab09-plus/3_DeepNNForClassificationDiabetes.py">
+    <entry file="file://$PROJECT_DIR$/lab10-plus/submission.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="5643">
+          <caret line="297" column="6" lean-forward="true" selection-start-line="297" selection-start-column="6" selection-end-line="297" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab10-plus/input/gender_submission.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
         </state>
       </provider>
     </entry>
