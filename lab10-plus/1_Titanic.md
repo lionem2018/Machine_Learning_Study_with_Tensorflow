@@ -1,4 +1,4 @@
-# Lab10-plus. More DeepNN Examples - (1)
+# Lab10-plus. Kaggle Example - (1)
 
 ## Titanic: Machine Learning from Disaster (from Kaggle)
 
