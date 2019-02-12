@@ -1,4 +1,4 @@
-# Lab11-1 CNN Basics - (6)
+# Lab11-1. CNN Basics - (6)
 
 ## Simple CNN Example for MNIST
 
