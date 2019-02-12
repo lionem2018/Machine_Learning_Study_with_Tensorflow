@@ -5,22 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="644b5a68-1ffb-4159-8236-3d019741196f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lab11-1/1_SimpleCNNExampleWithoutPadding.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11-1/1_SimpleCNNExampleWithoutPadding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11-1/2_SimpleCNNExampleWithAutoPadding.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11-1/2_SimpleCNNExampleWithAutoPadding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11-1/3_SimpleCNNExampleWith3Filters.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11-1/3_SimpleCNNExampleWith3Filters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11-1/4_MaxPooling.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11-1/4_MaxPooling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11-1/5_MaxPoolingWithPadding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11-1/picture_result_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11-1/picture_result_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11-1/picture_result_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11-1/picture_simple_cnn_1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab11-1/picture_simple_cnn_2.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab10-plus/1_Titanic.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab10-plus/1_Titanic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab11-1/1_SimpleCNNExampleWithoutPadding.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab11-1/1_SimpleCNNExampleWithoutPadding.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab11-1/4_MaxPooling.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab11-1/4_MaxPooling.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab11-1/6_SimpleMNISTExample.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab11-1/6_SimpleMNISTExample.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,22 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab11-1/5_MaxPoolingWithPadding.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="437">
-                <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab11-1/6_SimpleMNISTExample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="247">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -55,68 +31,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab11-1/6_SimpleMNISTExample.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="475">
-                <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lab11-1/1_SimpleCNNExampleWithoutPadding.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="494">
-                <caret line="38" column="45" lean-forward="true" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab01/1_HelloTensorflow.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab11-1/4_MaxPooling.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab11-1/picture_max_pooling_with_padding.png">
+        <entry file="file://$PROJECT_DIR$/lab11-1/picture_result_6-2.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab11-1/5_MaxPoolingWithPadding.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="15" selection-end-column="18" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab11-1/6_SimpleMNISTExample.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="817">
+                <caret line="43" column="14" lean-forward="true" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab11-1/7_ImprovedSimpleMNISTExample.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab11-1/picture_simple_cnn_2.PNG">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab11-1/4_MaxPooling.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="95">
-                <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+              <first_editor relative-caret-position="323">
+                <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -124,13 +74,35 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab11-1/3_SimpleCNNExampleWith3Filters.md">
+        <entry file="file://$PROJECT_DIR$/lab11-1/picture_simple_cnn_1.PNG">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab11-1/picture_result_6-1.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab11-1/1_SimpleCNNExampleWithoutPadding.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="437">
-                <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+              <first_editor relative-caret-position="931">
+                <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab11-1/1_SimpleCNNExampleWithoutPadding.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,8 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lab09-2/1_TensorBoardForXOR.md" />
-        <option value="$PROJECT_DIR$/Lab09-plus/1_DeepNNForMNISTData.py" />
         <option value="$PROJECT_DIR$/Lab09-plus/1_DeepNNForMNISTData.md" />
         <option value="$PROJECT_DIR$/Lab09-plus/MNIST_data/2_DeepNNForClassificationDiabetes.py" />
         <option value="$PROJECT_DIR$/lab09-plus/MNIST_data/2_DeepNNForClassificationDiabetes.py" />
@@ -197,16 +167,18 @@
         <option value="$PROJECT_DIR$/lab11-1/1_SimpleCNNExampleWithAutoPadding.py" />
         <option value="$PROJECT_DIR$/lab11-1/3_SimpleCNNExampleWith3Filters.py" />
         <option value="$PROJECT_DIR$/lab11-1/2_SimpleCNNExampleWithAutoPadding.py" />
-        <option value="$PROJECT_DIR$/lab11-1/1_SimpleCNNExampleWithoutPadding.py" />
         <option value="$PROJECT_DIR$/lab11-1/2_SimpleCNNExampleWithAutoPadding.md" />
         <option value="$PROJECT_DIR$/lab11-1/3_SimpleCNNExampleWith3Filters.md" />
         <option value="$PROJECT_DIR$/lab11-1/4_MaxPooling.py" />
         <option value="$PROJECT_DIR$/lab11-1/5_MaxPoolingWithPadding.py" />
         <option value="$PROJECT_DIR$/lab11-1/5_MaxPoolingWithPadding.md" />
         <option value="$PROJECT_DIR$/lab11-1/4_MaxPooling.md" />
-        <option value="$PROJECT_DIR$/lab11-1/6_SimpleMNISTExample.py" />
-        <option value="$PROJECT_DIR$/lab11-1/6_SimpleMNISTExample.md" />
         <option value="$PROJECT_DIR$/lab11-1/1_SimpleCNNExampleWithoutPadding.md" />
+        <option value="$PROJECT_DIR$/lab11-1/6_SimpleMNISTExample.md" />
+        <option value="$PROJECT_DIR$/lab11-1/test.py" />
+        <option value="$PROJECT_DIR$/lab11-1/7_ImprovedSimpleMNISTExample.py" />
+        <option value="$PROJECT_DIR$/lab11-1/1_SimpleCNNExampleWithoutPadding.py" />
+        <option value="$PROJECT_DIR$/lab11-1/6_SimpleMNISTExample.py" />
       </list>
     </option>
   </component>
@@ -233,6 +205,16 @@
             <path>
               <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tensorflow_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="lab01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensorflow_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="lab08" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tensorflow_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tensorflow_Test" type="462c0819:PsiDirectoryNode" />
               <item name="lab11-1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -255,19 +237,19 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab11-1" />
-      <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab10" />
-      <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\Lab09-plus\MNIST_data" />
-      <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\Lab09-plus" />
-      <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab09-1" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab11-1" />
       <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab10-plus" />
       <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab10" />
       <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab09-plus" />
       <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\Lab09-plus" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab11-1" />
+      <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab10" />
+      <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\Lab09-plus\MNIST_data" />
+      <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\Lab09-plus" />
+      <recent name="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab09-1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -282,7 +264,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.6_SimpleMNISTExample">
+  <component name="RunManager" selected="Python.1_SimpleCNNExampleWithoutPadding">
     <configuration name="1_SimpleCNNExampleWithoutPadding" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tensorflow_Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,27 +278,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab11-1/1_SimpleCNNExampleWithoutPadding.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3_SimpleCNNExampleWith3Filters" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Tensorflow_Test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab11-1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab11-1/3_SimpleCNNExampleWith3Filters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -346,27 +307,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5_MaxPoolingWithPadding" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Tensorflow_Test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab11-1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab11-1/5_MaxPoolingWithPadding.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="6_SimpleMNISTExample" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tensorflow_Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -388,13 +328,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="7_ImprovedSimpleMNISTExample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tensorflow_Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab11-1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab11-1\6_SimpleMNISTExamplePlus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tensorflow_Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab11-1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\sslab\Projects\PycharmProjects\Tensorflow_Test\lab11-1\6_SimpleMNISTExamplePlus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6_SimpleMNISTExample" />
-        <item itemvalue="Python.5_MaxPoolingWithPadding" />
-        <item itemvalue="Python.4_MaxPooling" />
-        <item itemvalue="Python.3_SimpleCNNExampleWith3Filters" />
         <item itemvalue="Python.1_SimpleCNNExampleWithoutPadding" />
+        <item itemvalue="Python.7_ImprovedSimpleMNISTExample" />
+        <item itemvalue="Python.6_SimpleMNISTExample" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.4_MaxPooling" />
       </list>
     </recent_temporary>
   </component>
@@ -424,7 +406,7 @@
     <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1716418" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1748401" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -449,77 +431,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lab05/1_LogisticClassifier.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="6" selection-start-column="6" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab09-1/4_DeepNNForXOR.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" column="26" lean-forward="true" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab09-1/3_WideNNForXOR.md">
-      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="534">
-            <caret line="87" column="37" selection-start-line="87" selection-start-column="37" selection-end-line="87" selection-end-column="37" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab06-2/1_FancySoftmaxClassifier.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="18" selection-start-line="18" selection-end-line="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab09-1/3_WideNNForXOR.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="51" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab09-plus/test.py" />
-    <entry file="file://$PROJECT_DIR$/lab09-plus/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/lab09-2/1_TensorBoardForXOR.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="912">
-            <caret line="66" column="33" lean-forward="true" selection-start-line="66" selection-start-column="33" selection-end-line="66" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab09-plus/1_DeepNNForMNISTData.md" />
-    <entry file="file://$PROJECT_DIR$/lab09-plus/data-03-diabetes.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="63" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab10/3_MoreDeepNNForMNIST.md" />
     <entry file="file://$PROJECT_DIR$/lab10/2_NNForMNIST_Xavier.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -733,30 +644,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab11-1/1_SimpleCNNExampleWithoutPadding.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab11-1/2_SimpleCNNExampleWithAutoPadding.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab11-1/2_SimpleCNNExampleWithAutoPadding.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="418">
-            <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -770,33 +661,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab11-1/3_SimpleCNNExampleWith3Filters.md">
+    <entry file="file://$PROJECT_DIR$/lab01/1_HelloTensorflow.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="437">
-            <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-          </first_editor>
+          <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab11-1/4_MaxPooling.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab11-1/picture_max_pooling_with_padding.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab11-1/4_MaxPooling.md">
+    <entry file="file://$PROJECT_DIR$/lab11-1/2_SimpleCNNExampleWithAutoPadding.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="95">
-            <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <first_editor relative-caret-position="532">
+            <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab11-1/3_SimpleCNNExampleWith3Filters.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="380">
+            <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab11-1/5_MaxPoolingWithPadding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab11-1/4_MaxPooling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -810,17 +716,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab11-1/5_MaxPoolingWithPadding.py">
+    <entry file="file://$PROJECT_DIR$/lab08/1_TensorManipulation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="284" column="23" lean-forward="true" selection-start-line="284" selection-start-column="23" selection-end-line="284" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/scipy/sparse/coo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="15" selection-end-column="18" />
+        <state relative-caret-position="239">
+          <caret line="193" column="8" selection-start-line="193" selection-start-column="8" selection-end-line="193" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab11-1/picture_result_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab11-1/picture_result_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab11-1/picture_simple_cnn_2.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab11-1/picture_simple_cnn_1.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab11-1/picture_result_6-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab11-1/picture_result_6-2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/matplotlib/figure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab11-1/1_SimpleCNNExampleWithoutPadding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab11-1/1_SimpleCNNExampleWithoutPadding.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="931">
+            <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab11-1/4_MaxPooling.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab11-1/7_ImprovedSimpleMNISTExample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab11-1/6_SimpleMNISTExample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
@@ -830,26 +808,8 @@
     <entry file="file://$PROJECT_DIR$/lab11-1/6_SimpleMNISTExample.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="475">
-            <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab01/1_HelloTensorflow.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab11-1/1_SimpleCNNExampleWithoutPadding.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="494">
-            <caret line="38" column="45" lean-forward="true" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+          <first_editor relative-caret-position="817">
+            <caret line="43" column="14" lean-forward="true" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
           </first_editor>
           <second_editor />
         </state>

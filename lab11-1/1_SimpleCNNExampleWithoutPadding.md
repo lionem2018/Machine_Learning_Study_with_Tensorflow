@@ -6,7 +6,7 @@
 
 - Input Image: 1개의 3X3X1 이미지(1은 색상을 뜻함)
 
-- Filter: 1개의 2X2X1 필터
+- Filter: 1개의 2X2X1 필터, 다른 행렬은 맨 앞 숫자가 개수를 뜻하지만, 필터는 맨 뒤 숫자가 개수를 뜻함
 
 - Stride: 행열 1씩 이동
 
@@ -30,6 +30,8 @@
                           [[[1.]], [[1.]]]])
     print("weight.shape", weight.shape)
     # tf.nn.conv2d(image, filter, strides, padding, ...): Convolution layer 설정
+    # strides는 주로 중앙 2개의 값만을 사용,
+    # 만약 2칸 움직이고 싶다면, strides=[1, 2, 2, 1]
     conv2d = tf.nn.conv2d(image, weight, strides=[1, 1, 1, 1], padding='VALID')
     conv2d_img = conv2d.eval()
     print("conv2d_img.shape", conv2d_img.shape)

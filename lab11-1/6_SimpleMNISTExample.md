@@ -18,6 +18,8 @@
     
     sess = tf.InteractiveSession()
     
+    # img.reshape(): 여기서는 개수가 n개인 28*28*1 행렬 생성(-1은 미지정을 뜻함)
+    # reshape(batch, width, height, channel)
     img = img.reshape(-1, 28, 28, 1)
     W1 = tf.Variable(tf.random_normal([3, 3, 1, 5], stddev=0.01))
     conv2d = tf.nn.conv2d(img, W1, strides=[1, 2, 2, 1], padding='SAME')

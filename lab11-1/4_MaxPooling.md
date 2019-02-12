@@ -11,6 +11,7 @@
     image = np.array([[[[4], [3]],
                        [[2], [1]]]], dtype=np.float32)
     # tf.nn.max_pool(image, ksize, strides, padding): 이미지의 각 ksize 만큼에 대한 part에서 가장 큰 값을 찾아 pooling
+    # ksize = [one image, width, height, one channel]
     pool = tf.nn.max_pool(image, ksize=[1, 2, 2, 1],
                           strides=[1, 1, 1, 1], padding='VALID')
 
