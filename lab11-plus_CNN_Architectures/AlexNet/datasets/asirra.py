@@ -70,6 +70,9 @@ def read_asirra_subset(subset_dir, one_hot=True, sample_size=None):
 def random_crop_reflect(images, crop_1):
     """
     Perform random cropping and reflection from images
+    원본 256*256 크기의 이미지로부터 crop_1*crop_1(여기서는 227*227) 크기의 patch를 랜덤한 위치에서 추출,
+    50% 확률로 해당 패치에 대한 수평 방향으로의 대칭 변환
+    1 이미지 -> 1 패치 (학습 단계에서 사용)
     :param images: np.ndarray, shape: (N, H, W, C)
     :param crop_1: int, a side length of crop region
     :return: np.ndarray, shape: (N, h, w, C)
@@ -101,6 +104,9 @@ def corner_center_crop_reflect(images, crop_1):
     """
     Perform 4 corners and center cropping and reflection from images,
     resulting in 10x augmented patches
+    원본 256*256 크기 이미지에서의 좌측 상단, 우측 상단, 좌측 하단, 우측 하단, 중심 위치 각각으로부터
+    총 5개의 crop_1*crop_1(여기서는 227*227) 패치를 추출하고, 이들 각각에 대해 수평 방향 대칭 변환
+    1 이미지 -> 10 패치 (테스트 단계에서 사용)
     :param images: np.ndarray, shape: (N, H, W, C)
     :param crop_1: int, a side length of crop region
     :return: np.ndarray, shape: (N, 10, h, w, C)
@@ -121,6 +127,7 @@ def corner_center_crop_reflect(images, crop_1):
 
         # Flip augmented images and add it
         aug_image_flipped = aug_image_orig[:, :, ::-1]  # (5, h, w, C)
+        # np.concatenate: 여러 배열을 한 번에 합침
         aug_image = np.concatenate((aug_image_orig, aug_image_flipped), axis=0)  # (10, h, w, C)
         augmented_images.append(aug_image)
 
@@ -130,6 +137,8 @@ def corner_center_crop_reflect(images, crop_1):
 def center_crop(images, crop_1):
     """
     Perform center cropping of images
+    256*256 이미지의 중앙을 crop_1*crop_1(여기서는 227*227) 사이즈로 크롭
+    1 이미지 -> 1 패치
     :param images: np.ndarray, shape: (N, H, W, C)
     :param crop_1: int, a side length of crop region
     :return: np.ndarray, shape: (N, h, w, C)
@@ -245,12 +254,17 @@ class DataSet(object):
 
         if augment and is_train:
             # 학습 상황에서의 데이터 증강을 수행
+            # 256*256 크기의 1 이미지 -> 227*227 크기의 크롭된 (추가로 50% 확률로 수평 대칭 변환 수행된) 1 패치
             batch_images = random_crop_reflect(batch_images, 227)
         elif augment and not is_train:
             # Perform data augmentation, for evaluation phase(10x)
+            # 테스트 상황에서의 데이터 증강을 수행
+            # 256*256 크기의 1 이미지 -> 227*227 크기의 크롭된 (추가로 수평 대칭 변환 수행된) 10 패치
             batch_images = corner_center_crop_reflect(batch_images, 227)
         else:
             # Don't perform data augmentation, generating center-cropped patches
+            # 데이터 증강을 수행하지 않고 이미지만 크롭
+            # 256*256 크기의 1 이미지 -> 227*227 크기의 중앙 크롭된 1 패치
             batch_images = center_crop(batch_images, 227)
 
         return batch_images, batch_labels
