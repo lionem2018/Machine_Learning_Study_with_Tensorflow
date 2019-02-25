@@ -156,8 +156,8 @@ class AlexNet(ConvNet):
 
         # conv1 - relu1 - pool1
         with tf.variable_scope('conv1'):
-            d['cov1'] = conv_layer(X_input, 11, 4, 96, padding='VALID',
-                                   weights_stddev=0.01, biases_value=0.0)
+            d['conv1'] = conv_layer(X_input, 11, 4, 96, padding='VALID',
+                                    weights_stddev=0.01, biases_value=0.0)
             print('conv1.shape', d['conv1'].get_shape().as_list())
         d['relu1'] = tf.nn.relu(d['conv1'])
         # (227, 227, 3) --> (55, 55, 96)
@@ -215,7 +215,7 @@ class AlexNet(ConvNet):
         d['relu6'] = tf.nn.relu(d['fc6'])
         d['drop6'] = tf.nn.dropout(d['relu6'], keep_prob)
         # (9216) --> (4096)
-        print('dropout6.shape', d['drop6'].get_shape().as_list())
+        print('drop6.shape', d['drop6'].get_shape().as_list())
 
         # fc7
         with tf.variable_scope('fc7'):
@@ -228,8 +228,8 @@ class AlexNet(ConvNet):
 
         # fc8
         with tf.variable_scope('fc8'):
-            d['fc8'] = fc_layer(d['drop7'], num_classes,      ########################################### d['relu7']
-                                weights_stddev=0.01, biases_value=0.0)
+            d['logits'] = fc_layer(d['drop7'], num_classes,      ########################################### d['relu7']
+                                   weights_stddev=0.01, biases_value=0.0)
         # (4096) --> (num_classes)
 
         # softmax

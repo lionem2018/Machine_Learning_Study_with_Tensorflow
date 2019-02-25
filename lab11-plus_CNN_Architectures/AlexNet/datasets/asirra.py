@@ -187,7 +187,7 @@ class DataSet(object):
         return self._labels
 
     @property
-    def nu_examples(self):
+    def num_examples(self):
         return self._num_examples
 
     def next_batch(self, batch_size, shuffle=True, augment=True, is_train=True, fake_data=False):
