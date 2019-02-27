@@ -4,7 +4,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-def plot_learning_curve(exp_idx, step_losses, step_scores, eval_scores=None, mode='max', img_dir="."):
+def plot_learning_curve(exp_idx, step_losses, step_scores, eval_scores=None,
+                        mode='max', img_dir='.'):
     fig, axes = plt.subplots(2, 1, figsize=(10, 10))
     axes[0].plot(np.arange(1, len(step_losses)+1), step_losses, marker='')
     axes[0].set_ylabel('loss')
@@ -14,7 +15,7 @@ def plot_learning_curve(exp_idx, step_losses, step_scores, eval_scores=None, mod
         axes[1].plot(np.arange(1, len(eval_scores)+1), eval_scores, color='r', marker='')
     if mode == 'max':
         axes[1].set_ylim(0.5, 1.0)
-    else:
+    else:    # mode == 'min'
         axes[1].set_ylim(0.0, 0.5)
     axes[1].set_ylabel('Accuracy')
     axes[1].set_xlabel('Number of epochs')

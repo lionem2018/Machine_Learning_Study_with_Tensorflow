@@ -6,26 +6,19 @@ from models.layers import conv_layer, max_pool, fc_layer
 
 
 class ConvNet(object):
-    """
-    Base class for Convolutional Neural Networks
-    컨볼루션 신경망 모델의 베이스 클래스
-    """
+    """Base class for Convolutional Neural Networks."""
 
     def __init__(self, input_shape, num_classes, **kwargs):
         """
-        Model Initializer
-        모델 생성자
-        :param input_shape: tuple, the shape of inputs (H, W, C), ranged [0.0, 1.0]
-                                   shape (H, W, C) 및 값 범위 [0.0, 1.0]의 입력값
-        :param num_classes: int, the number of classes
-                                 총 클래스 개수
+        Model initializer.
+        :param input_shape: tuple, the shape of inputs (H, W, C), ranged [0.0, 1.0].
+        :param num_classes: int, the number of classes.
         """
         self.X = tf.placeholder(tf.float32, [None] + input_shape)
         self.y = tf.placeholder(tf.float32, [None] + [num_classes])
         self.is_train = tf.placeholder(tf.bool)
 
         # Build model and loss function
-        # 모델과 손실 함수 정의
         self.d = self._build_model(**kwargs)
         self.logits = self.d['logits']
         self.pred = self.d['pred']
@@ -34,50 +27,37 @@ class ConvNet(object):
     @abstractmethod
     def _build_model(self, **kwargs):
         """
-        Build model
-        This should be implemented
-        모델 생성
-        해당 함수를 추후 구현해야함
+        Build model.
+        This should be implemented.
         """
         pass
 
     @abstractmethod
     def _build_loss(self, **kwargs):
         """
-        Build loss function for the model training
-        This should be implemented
-        모델 학습을 위한 손실함수 생성
-        해당 함수를 추후 구현해야 함
+        Build loss function for the model training.
+        This should be implemented.
         """
         pass
 
     def predict(self, sess, dataset, verbose=False, **kwargs):
         """
-        Make predictions for the given dataset
-        주어진 데이터셋에 대한 예측을 수행함
-        :param sess: tf.Session
-        :param dataset: DataSet
-        :param verbose: bool, whether to print details during prediction
-                              예측 과정에서 구체적인 정보를 출력할지 여부
-        :param kwargs: dict, extra arguments for prediction
-                             예측을 위한 추가 인자
-            - batch_size: int, batch size for each iteration
-                               각 반복 회차에서의 미니 배치 크기
-            - augment_pred: bool, whether to perform augmentation for prediction
-                                  예측 과정에서 데이터 증강을 수행할지 여부
-        :return _y_pred: np.ndarray, shape: (N, num_classes)
+        Make predictions for the given dataset.
+        :param sess: tf.Session.
+        :param dataset: DataSet.
+        :param verbose: bool, whether to print details during prediction.
+        :param kwargs: dict, extra arguments for prediction.
+            - batch_size: int, batch size for each iteration.
+            - augment_pred: bool, whether to perform augmentation for prediction.
+        :return _y_pred: np.ndarray, shape: (N, num_classes).
         """
         batch_size = kwargs.pop('batch_size', 256)
         augment_pred = kwargs.pop('augment_pred', True)
 
         if dataset.labels is not None:
-            # 데이터셋에 명시된 label이 one-hot 형태인지 검사
-            assert len(dataset.labels.shape) > 1, 'Labels must be one-hot encoded'
-
+            assert len(dataset.labels.shape) > 1, 'Labels must be one-hot encoded.'
         num_classes = int(self.y.get_shape()[-1])
-        # 1 epoch에서 수행되는 데이터의 총 개수
         pred_size = dataset.num_examples
-        # 1 epoch를 수행하기 위해 필요한 step의 개수(정수형 나눗셈)
         num_steps = pred_size // batch_size
 
         if verbose:
@@ -88,59 +68,53 @@ class ConvNet(object):
         start_time = time.time()
         for i in range(num_steps+1):
             if i == num_steps:
-                # 마지막 step이라면, 수행해야할 남은 미니 배치 크기를 구함
                 _batch_size = pred_size - num_steps*batch_size
             else:
-                # 지정한 미니 배치만큼 1 step 수행
                 _batch_size = batch_size
-
-            # 현 step에서 수행해야할 미니 배치만큼 데이터를 가져옴
-            X, _ = dataset.next_batch(_batch_size, shuffle=False, augment=augment_pred, is_train=False)
-            # if augment_pred == True: X.shape: (N, 10, h, w, C)
-            # else                     X.shape: (N, h, w, C)
+            X, _ = dataset.next_batch(_batch_size, shuffle=False,
+                                      augment=augment_pred, is_train=False)
+            # if augment_pred == True:  X.shape: (N, 10, h, w, C)
+            # else:                     X.shape: (N, h, w, C)
 
             # If performing augmentation during prediction,
-            # 예측 과정에서 데이터 증강을 수행할 경우,
             if augment_pred:
-                # (미니배치 크기 * 10 * class 개수) 크기의 배열을 만들어 예측 결과를 저장할 배열 생성
-                y_pred_patches = np.empty((_batch_size, 10, num_classes), dtype=np.float32)  # (N, 10, num_classes)
+                y_pred_patches = np.empty((_batch_size, 10, num_classes),
+                                          dtype=np.float32)    # (N, 10, num_classes)
                 # compute predictions for each of 10 patch modes,
-                # 10 종류의 patch 각각에 대하여 예측 결과를 산출하고,
                 for idx in range(10):
                     y_pred_patch = sess.run(self.pred,
-                                            feed_dict={self.X: X[:, idx],  # (N, h, w, C)
+                                            feed_dict={self.X: X[:, idx],    # (N, h, w, C)
                                                        self.is_train: False})
                     y_pred_patches[:, idx] = y_pred_patch
                 # and average predictions on the 10 patches
-                # 이들 10개 예측 결과의 평균을 산출함
-                y_pred = y_pred_patches.mean(axis=1)  # (N, num_classes_
+                y_pred = y_pred_patches.mean(axis=1)    # (N, num_classes)
             else:
                 # Compute predictions
-                # 예측 결과를 단순 산출함
                 y_pred = sess.run(self.pred,
                                   feed_dict={self.X: X,
-                                             self.is_train: False})  # (N, num_classes)
+                                             self.is_train: False})    # (N, num_classes)
+
             _y_pred.append(y_pred)
+        if verbose:
+            print('Total prediction time(sec): {}'.format(time.time() - start_time))
 
-            if verbose:
-                print('Total prediction time(sec): {}'.format(time.time() - start_time))
+        _y_pred = np.concatenate(_y_pred, axis=0)    # (N, num_classes)
 
-            _y_pred = np.concatenate(_y_pred, axis=0)  # (N, num_classes)
-
-            return _y_pred
+        return _y_pred
 
 
 class AlexNet(ConvNet):
-    """AlexNet Class"""
+    """AlexNet class."""
 
     def _build_model(self, **kwargs):
         """
-        Build model
-        :param kwargs: dict, extra arguments for building AlexNet
-            - image_mean: np.ndarray, mean image for each input channel, shape: (C,)
-        :return d: dict, containing outputs on each layer
+        Build model.
+        :param kwargs: dict, extra arguments for building AlexNet.
+            - image_mean: np.ndarray, mean image for each input channel, shape: (C,).
+            - dropout_prob: float, the probability of dropping out each unit in FC layer.
+        :return d: dict, containing outputs on each layer.
         """
-        d = dict()  # Dictionary to save intermediate values returned from each layer
+        d = dict()    # Dictionary to save intermediate values returned from each layer.
         X_mean = kwargs.pop('image_mean', 0.0)
         dropout_prob = kwargs.pop('dropout_prob', 0.0)
         num_classes = int(self.y.get_shape()[-1])
@@ -151,8 +125,7 @@ class AlexNet(ConvNet):
                             lambda: 1.)
 
         # input
-        X_input = self.X - X_mean  # perform mean subtraction
-
+        X_input = self.X - X_mean    # perform mean subtraction
 
         # conv1 - relu1 - pool1
         with tf.variable_scope('conv1'):
@@ -179,7 +152,7 @@ class AlexNet(ConvNet):
         # conv3 - relu3
         with tf.variable_scope('conv3'):
             d['conv3'] = conv_layer(d['pool2'], 3, 1, 384, padding='SAME',
-                                    weights_stddev=0.01, baises_value=0.0)
+                                    weights_stddev=0.01, biases_value=0.0)
             print('conv3.shape', d['conv3'].get_shape().as_list())
         d['relu3'] = tf.nn.relu(d['conv3'])
         # (13, 13, 256) --> (13, 13, 384)
@@ -192,7 +165,7 @@ class AlexNet(ConvNet):
         d['relu4'] = tf.nn.relu(d['conv4'])
         # (13, 13, 384) --> (13, 13, 384)
 
-        # conv5 - relu5 - pool
+        # conv5 - relu5 - pool5
         with tf.variable_scope('conv5'):
             d['conv5'] = conv_layer(d['relu4'], 3, 1, 256, padding='SAME',
                                     weights_stddev=0.01, biases_value=0.1)
@@ -228,8 +201,8 @@ class AlexNet(ConvNet):
 
         # fc8
         with tf.variable_scope('fc8'):
-            d['logits'] = fc_layer(d['drop7'], num_classes,      ########################################### d['relu7']
-                                   weights_stddev=0.01, biases_value=0.0)
+            d['logits'] = fc_layer(d['relu7'], num_classes,
+                                weights_stddev=0.01, biases_value=0.0)
         # (4096) --> (num_classes)
 
         # softmax
@@ -239,13 +212,10 @@ class AlexNet(ConvNet):
 
     def _build_loss(self, **kwargs):
         """
-        Build loss function for the model training
-        모델 학습을 위한 손실 함수 생성
-        :param kwargs: dict, extra arguments for regularization term
-                             정규화 항을 위한 추가 인자
-            - weight_decay: float, L2 weight decay regularization coefficient
-                                   L2 정규화 계수
-        :return tf.Tensor
+        Build loss function for the model training.
+        :param kwargs: dict, extra arguments for regularization term.
+            - weight_decay: float, L2 weight decay regularization coefficient.
+        :return tf.Tensor.
         """
         weight_decay = kwargs.pop('weight_decay', 0.0005)
         variables = tf.trainable_variables()
