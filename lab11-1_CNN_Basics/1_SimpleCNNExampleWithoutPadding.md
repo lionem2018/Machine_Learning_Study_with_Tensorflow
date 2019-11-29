@@ -10,7 +10,8 @@
 
 - Stride: 행열 1씩 이동
 
-
+## Code
+    
     import numpy as np
     import matplotlib.pyplot as plt
     
